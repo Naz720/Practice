@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-29T14:07:16 IST" name="Suite" finished-at="2024-01-29T14:07:49 IST" duration-ms="33721">
+    <groups>
+    </groups>
+    <test started-at="2024-01-29T14:07:16 IST" name="Test" finished-at="2024-01-29T14:07:49 IST" duration-ms="33721">
+      <class name="frames.test">
+        <test-method signature="setup()[pri:0, instance:frames.test@4a22f9e2]" started-at="2024-01-29T14:07:16 IST" name="setup" finished-at="2024-01-29T14:07:49 IST" duration-ms="33652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- frames.test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

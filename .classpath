@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-core-console-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-core-console-l1-2-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-core-datetime-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-core-debug-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-core-errorhandling-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-core-file-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-core-file-l1-2-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-core-file-l2-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-core-handle-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-core-heap-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-core-interlocked-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-core-libraryloader-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-core-localization-l1-2-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-core-memory-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-core-namedpipe-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-core-processenvironment-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-core-processthreads-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-core-processthreads-l1-1-1.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-core-profile-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-core-rtlsupport-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-core-string-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-core-synch-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-core-synch-l1-2-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-core-sysinfo-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-core-timezone-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-core-util-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-crt-conio-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-crt-convert-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-crt-environment-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-crt-filesystem-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-crt-heap-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-crt-locale-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-crt-math-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-crt-multibyte-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-crt-private-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-crt-process-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-crt-runtime-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-crt-stdio-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-crt-string-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-crt-time-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/api-ms-win-crt-utility-l1-1-0.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/attach.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/awt.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/dt_shmem.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/dt_socket.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/extnet.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/fontmanager.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/freetype.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/instrument.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/j2gss.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/j2pcsc.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/j2pkcs11.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/jaas.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/jabswitch.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/jaccessinspector.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/jaccesswalker.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/jar.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/jarsigner.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/java.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/java.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/javaaccessbridge.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/javac.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/javadoc.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/javajpeg.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/javap.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/javaw.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/jawt.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/jcmd.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/jconsole.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/jdb.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/jdeprscan.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/jdeps.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/jdwp.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/jfr.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/jhsdb.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/jimage.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/jimage.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/jinfo.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/jli.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/jlink.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/jmap.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/jmod.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/jpackage.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/jpackage.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/jps.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/jrunscript.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/jshell.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/jsound.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/jstack.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/jstat.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/jstatd.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/jsvml.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/jwebserver.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/keytool.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/kinit.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/klist.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/ktab.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/lcms.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/le.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/management.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/management_agent.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/management_ext.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/mlib_image.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/msvcp140.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/net.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/nio.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/prefs.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/rmi.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/rmiregistry.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/saproc.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/serialver.exe"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/splashscreen.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/sspi_bridge.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/sunmscapi.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/syslookup.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/ucrtbase.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/vcruntime140.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/vcruntime140_1.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/verify.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/w2k_lsa_auth.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/windowsaccessbridge-64.dll"/>
+	<classpathentry kind="lib" path="C:/Users/91984/.jdks/openjdk-21.0.1/bin/zip.dll"/>
+	<classpathentry kind="src" path="target/generated-sources/annotations">
+		<attributes>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="target/generated-test-sources/test-annotations">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

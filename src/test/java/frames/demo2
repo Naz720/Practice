@@ -1,0 +1,3 @@
+Select as = new select();
+as.getAlloperation();
+for(as ; )
